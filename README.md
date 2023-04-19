@@ -1,1 +1,2 @@
-# Final-Project
+# Final Project
+Predicting crime using video classification
